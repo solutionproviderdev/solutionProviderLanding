@@ -31,7 +31,7 @@ const Footer = () => {
             </li>
             <li className="flex items-center">
               <MapPin className="mr-2" size={18} />
-              <span>Plot 105/27/B, Salam Sardar Main Road, Nilachol Abasik Area, West Dhanmondi, Dhaka Inner Circular Road, Dhaka-1209, Bangladesh</span>
+              <span>Plot: 105/27/B, Salam Sardar Main Road, Nilachol Abasik Area, West Dhanmondi, Dhaka Inner Circular Road, Dhaka-1209</span>
             </li>
           </ul>
         </div>
